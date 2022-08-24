@@ -20,8 +20,6 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=danilofelicio&repo=devweekgit.github.io&theme=gruvbox_light)](https://github.com/anuraghazra/github-readme-stats)
 
-## Contatos
+## Contato
 
 <a href="https://www.linkedin.com/in/danilofeliciodearaujo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  
-[<img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" height="30">](linkedin.com/in/danilofeliciodearaujo)
