@@ -16,10 +16,6 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilofelicio&langs_count=7&theme=gruvbox_light"/>
 </div>
 
-## Projetos
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=danilofelicio&repo=devweekgit.github.io&theme=gruvbox_light)](https://github.com/danilofelicio/devweekgit.github.io)
-
 ## Contato
 
 <a href="https://www.linkedin.com/in/danilofelicio" target="_blank" rel="external"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
